@@ -7670,81 +7670,54 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 110, C41, Aucun, N, N, Aucune, N, Aucune, Normal, 001000
 110, C41, Aucun, N, N, Aucune, N, Aucune, Express x2, 001000*2
 110, C41, Aucun, N, N, Aucune, N, Aucune, Express x3, 001000*3
-110, C41, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001000, 002625
-110, C41, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001000*2, 002625
-110, C41, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001000*3, 002625
 110, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 110, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 110, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
 110, NB, Aucun, N, N, Aucune, N, Aucune, Normal, 001005
 110, NB, Aucun, N, N, Aucune, N, Aucune, Express x2, 001005*2
 110, NB, Aucun, N, N, Aucune, N, Aucune, Express x3, 001005*3
-110, NB, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001005, 002625
-110, NB, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001005*2, 002625
-110, NB, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001005*3, 002625
 110, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 110, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 110, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
 110, E6, Aucun, N, N, Aucune, N, Aucune, Normal, 001078
 110, E6, Aucun, N, N, Aucune, N, Aucune, Express x2, 001078*2
 110, E6, Aucun, N, N, Aucune, N, Aucune, Express x3, 001078*3
-110, E6, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001078, 002625
-110, E6, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001078*2, 002625
-110, E6, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001078*3, 002625
 110, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 110, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 110, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
 126, C41, Aucun, N, N, Aucune, N, Aucune, Normal, 001000
 126, C41, Aucun, N, N, Aucune, N, Aucune, Express x2, 001000*2
 126, C41, Aucun, N, N, Aucune, N, Aucune, Express x3, 001000*3
-126, C41, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001000, 002625
-126, C41, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001000*2, 002625
-126, C41, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001000*3, 002625
 126, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 126, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 126, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
 126, NB, Aucun, N, N, Aucune, N, Aucune, Normal, 001005
 126, NB, Aucun, N, N, Aucune, N, Aucune, Express x2, 001005*2
 126, NB, Aucun, N, N, Aucune, N, Aucune, Express x3, 001005*3
-126, NB, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001005, 002625
-126, NB, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001005*2, 002625
-126, NB, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001005*3, 002625
 126, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 126, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 126, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
 126, E6, Aucun, N, N, Aucune, N, Aucune, Normal, 001078
 126, E6, Aucun, N, N, Aucune, N, Aucune, Express x2, 001078*2
 126, E6, Aucun, N, N, Aucune, N, Aucune, Express x3, 001078*3
-126, E6, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001078, 002625
-126, E6, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001078*2, 002625
-126, E6, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001078*3, 002625
 126, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 126, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 126, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
 127, C41, Aucun, N, N, Aucune, N, Aucune, Normal, 001000
 127, C41, Aucun, N, N, Aucune, N, Aucune, Express x2, 001000*2
 127, C41, Aucun, N, N, Aucune, N, Aucune, Express x3, 001000*3
-127, C41, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001000, 002625
-127, C41, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001000*2, 002625
-127, C41, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001000*3, 002625
 127, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 127, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 127, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
 127, NB, Aucun, N, N, Aucune, N, Aucune, Normal, 001005
 127, NB, Aucun, N, N, Aucune, N, Aucune, Express x2, 001005*2
 127, NB, Aucun, N, N, Aucune, N, Aucune, Express x3, 001005*3
-127, NB, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001005, 002625
-127, NB, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001005*2, 002625
-127, NB, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001005*3, 002625
 127, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 127, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 127, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
 127, E6, Aucun, N, N, Aucune, N, Aucune, Normal, 001078
 127, E6, Aucun, N, N, Aucune, N, Aucune, Express x2, 001078*2
 127, E6, Aucun, N, N, Aucune, N, Aucune, Express x3, 001078*3
-127, E6, Aucun, N, N, HR500 HD, O, Aucune, Normal, 001078, 002625
-127, E6, Aucun, N, N, HR500 HD, O, Aucune, Express x2, 001078*2, 002625
-127, E6, Aucun, N, N, HR500 HD, O, Aucune, Express x3, 001078*3, 002625
 127, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
 127, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
 127, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
