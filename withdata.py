@@ -262,17 +262,7 @@ def build_product_code(forma, typ, support, numerisation, finition, traitement):
     dev_option = ''
 
     # --- DEV RELATED CODES ---
-    # Pas de dev si Lomokino
-    if 'SUPPORT_LOMOKINO' in infoset:
-        dev_option = codes['FORFAIT_LOMOKINO_NO_PACK_NO_DEV']
-    # Pas de dev si Spinner
-    elif 'SUPPORT_SPINNER' in infoset:
-        dev_option = codes['FORFAIT_SPINNER']
-    # Pas de dev si Sprocket
-    elif 'SUPPORT_SPROCKET' in infoset:
-        dev_option = codes['FORFAIT_SPROCKET_110_126_127']
-
-    elif 'FORMAT_8x10' in infoset:
+    if 'FORMAT_8x10' in infoset:
         dev_option = codes['DEV_PF_8X10']
     elif set(['FORMAT_4x5', 'TYPE_NB_MANUEL']).issubset(infoset):
         dev_option = codes['DEV_PLAN_FILM_NB']
@@ -310,33 +300,41 @@ def build_product_code(forma, typ, support, numerisation, finition, traitement):
             dev_option += '*3'
     
     codes_arr.append(dev_option)
+
+    if 'SUPPORT_LOMOKINO' in infoset:
+        codes_arr.append(codes['FORFAIT_LOMOKINO_NO_PACK_NO_DEV'])
+    elif 'SUPPORT_SPINNER' in infoset:
+        codes_arr.append(codes['FORFAIT_SPINNER'])
+    elif 'SUPPORT_SPROCKET' in infoset:
+        codes_arr.append(codes['FORFAIT_SPROCKET_110_126_127'])
     # --- END OF DEV CODES ---
 
     # ---------------------------------------------------------------------
 
     # --- NUMERISATION CODES ---
     # Exception : code différent pour scan 4x5, sélectionné avec la num HD HR500 par manque d'autre option
-    if set(['FORMAT_4x5', 'NUMERISATION_HR500_HD']).issubset(infoset):
-        codes_arr.append(codes['NUMERISATION_4X5_FORFAIT'])
-    elif 'NUMERISATION_SD' in infoset:
-        codes_arr.append(codes['NUMERISATION_STANDARD'])
-    elif 'NUMERISATION_HS1800_L' in infoset:
-        codes_arr.append(codes['NUMERISATION_HS1800_L'])
-    elif 'NUMERISATION_HR500_SHD' in infoset:
-        codes_arr.append(codes['NUMERISATION_HR500_SHD'])
-    elif 'NUMERISATION_HR500_UHD' in infoset:
-        codes_arr.append(codes['NUMERISATION_HR500_UHD'])
-    elif 'NUMERISATION_HS1800_XL' in infoset:
-        codes_arr.append(codes['NUMERISATION_HS1800_XL'])
-    elif 'NUMERISATION_HR500_HD' in infoset:
-        codes_arr.append(codes['NUMERISATION_HR500_HD'])
-    # TODO Support for Washi scanning
+    if (('SUPPORT_LOMOKINO' not in infoset) and ('SUPPORT_SPINNER' not in infoset) and ('SUPPORT_SPROCKET' not in infoset)):
+        if set(['FORMAT_4x5', 'NUMERISATION_HR500_HD']).issubset(infoset):
+            codes_arr.append(codes['NUMERISATION_4X5_FORFAIT'])
+        elif 'NUMERISATION_SD' in infoset:
+            codes_arr.append(codes['NUMERISATION_STANDARD'])
+        elif 'NUMERISATION_HS1800_L' in infoset:
+            codes_arr.append(codes['NUMERISATION_HS1800_L'])
+        elif 'NUMERISATION_HR500_SHD' in infoset:
+            codes_arr.append(codes['NUMERISATION_HR500_SHD'])
+        elif 'NUMERISATION_HR500_UHD' in infoset:
+            codes_arr.append(codes['NUMERISATION_HR500_UHD'])
+        elif 'NUMERISATION_HS1800_XL' in infoset:
+            codes_arr.append(codes['NUMERISATION_HS1800_XL'])
+        elif 'NUMERISATION_HR500_HD' in infoset:
+            codes_arr.append(codes['NUMERISATION_HR500_HD'])
+        # TODO Support for Washi scanning
     # --- END OF NUMERISATION CODES ---
     
     # ---------------------------------------------------------------------
 
     # --- FORFAIT CODES ---
-    # Lomokino, sprocket, spinner handled above
+    # Lomokino, sprocket, spinner handled above, excluded anyway
     if 'SUPPORT_TIRAGE_LECTURE' in infoset:
         codes_arr.append(codes['FORFAIT_TIRAGE_LECTURE'])
     elif 'SUPPORT_10x15' in infoset:

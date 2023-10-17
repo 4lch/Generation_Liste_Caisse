@@ -485,6 +485,9 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 120, C41, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 001000, 001359
 120, C41, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 001000*2, 001359
 120, C41, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 001000*3, 001359
+120, C41, Spinner, N, O, Aucune, N, En bande, Normal, 001000, 000170
+120, C41, Spinner, N, O, Aucune, N, En bande, Express x2, 001000*2, 000170
+120, C41, Spinner, N, O, Aucune, N, En bande, Express x3, 001000*3, 000170
 120, C41 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 000960
 120, C41 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 000960*2
 120, C41 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 000960*3
@@ -971,6 +974,9 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 120, C41 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 000960, 001359
 120, C41 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 000960*2, 001359
 120, C41 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 000960*3, 001359
+120, C41 Manuel, Spinner, N, O, Aucune, N, En bande, Normal, 000960, 000170
+120, C41 Manuel, Spinner, N, O, Aucune, N, En bande, Express x2, 000960*2, 000170
+120, C41 Manuel, Spinner, N, O, Aucune, N, En bande, Express x3, 000960*3, 000170
 120, NB, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 001005
 120, NB, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 001005*2
 120, NB, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 001005*3
@@ -1457,6 +1463,9 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 120, NB, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 001005, 001359
 120, NB, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 001005*2, 001359
 120, NB, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 001005*3, 001359
+120, NB, Spinner, N, O, Aucune, N, En bande, Normal, 001005, 000170
+120, NB, Spinner, N, O, Aucune, N, En bande, Express x2, 001005*2, 000170
+120, NB, Spinner, N, O, Aucune, N, En bande, Express x3, 001005*3, 000170
 120, NB Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 000959
 120, NB Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 000959*2
 120, NB Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 000959*3
@@ -1943,6 +1952,9 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 120, NB Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 000959, 001359
 120, NB Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 000959*2, 001359
 120, NB Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 000959*3, 001359
+120, NB Manuel, Spinner, N, O, Aucune, N, En bande, Normal, 000959, 000170
+120, NB Manuel, Spinner, N, O, Aucune, N, En bande, Express x2, 000959*2, 000170
+120, NB Manuel, Spinner, N, O, Aucune, N, En bande, Express x3, 000959*3, 000170
 120, E6, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 001078
 120, E6, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 001078*2
 120, E6, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 001078*3
@@ -2429,6 +2441,9 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 120, E6, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 001078, 001359
 120, E6, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 001078*2, 001359
 120, E6, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 001078*3, 001359
+120, E6, Spinner, N, O, Aucune, N, En bande, Normal, 001078, 000170
+120, E6, Spinner, N, O, Aucune, N, En bande, Express x2, 001078*2, 000170
+120, E6, Spinner, N, O, Aucune, N, En bande, Express x3, 001078*3, 000170
 120, E6 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 002281
 120, E6 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 002281*2
 120, E6 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 002281*3
@@ -2915,6 +2930,9 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 120, E6 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 002281, 001359
 120, E6 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 002281*2, 001359
 120, E6 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 002281*3, 001359
+120, E6 Manuel, Spinner, N, O, Aucune, N, En bande, Normal, 002281, 000170
+120, E6 Manuel, Spinner, N, O, Aucune, N, En bande, Express x2, 002281*2, 000170
+120, E6 Manuel, Spinner, N, O, Aucune, N, En bande, Express x3, 002281*3, 000170
 120, NB SCA, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 001794
 120, NB SCA, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 001794*2
 120, NB SCA, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 001794*3
@@ -3401,6 +3419,9 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 120, NB SCA, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 001794, 001359
 120, NB SCA, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 001794*2, 001359
 120, NB SCA, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 001794*3, 001359
+120, NB SCA, Spinner, N, O, Aucune, N, En bande, Normal, 001794, 000170
+120, NB SCA, Spinner, N, O, Aucune, N, En bande, Express x2, 001794*2, 000170
+120, NB SCA, Spinner, N, O, Aucune, N, En bande, Express x3, 001794*3, 000170
 135, C41, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 001000
 135, C41, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 001000*2
 135, C41, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 001000*3
@@ -3887,6 +3908,18 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 135, C41, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 001000, 001359
 135, C41, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 001000*2, 001359
 135, C41, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 001000*3, 001359
+135, C41, Sprocket, N, O, Aucune, N, Découpe par 4, Normal, 001000, 000171
+135, C41, Sprocket, N, O, Aucune, N, Découpe par 4, Express x2, 001000*2, 000171
+135, C41, Sprocket, N, O, Aucune, N, Découpe par 4, Express x3, 001000*3, 000171
+135, C41, Sprocket, N, O, Aucune, N, En bande, Normal, 001000, 000171
+135, C41, Sprocket, N, O, Aucune, N, En bande, Express x2, 001000*2, 000171
+135, C41, Sprocket, N, O, Aucune, N, En bande, Express x3, 001000*3, 000171
+135, C41, Spinner, N, O, Aucune, N, En bande, Normal, 001000, 000170
+135, C41, Spinner, N, O, Aucune, N, En bande, Express x2, 001000*2, 000170
+135, C41, Spinner, N, O, Aucune, N, En bande, Express x3, 001000*3, 000170
+135, C41, Lomokino, N, N, Aucune, N, En bande, Normal, 001000, 000604
+135, C41, Lomokino, N, N, Aucune, N, En bande, Express x2, 001000*2, 000604
+135, C41, Lomokino, N, N, Aucune, N, En bande, Express x3, 001000*3, 000604
 135, C41 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 000960
 135, C41 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 000960*2
 135, C41 Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 000960*3
@@ -4373,6 +4406,18 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 135, C41 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 000960, 001359
 135, C41 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 000960*2, 001359
 135, C41 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 000960*3, 001359
+135, C41 Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Normal, 000960, 000171
+135, C41 Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Express x2, 000960*2, 000171
+135, C41 Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Express x3, 000960*3, 000171
+135, C41 Manuel, Sprocket, N, O, Aucune, N, En bande, Normal, 000960, 000171
+135, C41 Manuel, Sprocket, N, O, Aucune, N, En bande, Express x2, 000960*2, 000171
+135, C41 Manuel, Sprocket, N, O, Aucune, N, En bande, Express x3, 000960*3, 000171
+135, C41 Manuel, Spinner, N, O, Aucune, N, En bande, Normal, 000960, 000170
+135, C41 Manuel, Spinner, N, O, Aucune, N, En bande, Express x2, 000960*2, 000170
+135, C41 Manuel, Spinner, N, O, Aucune, N, En bande, Express x3, 000960*3, 000170
+135, C41 Manuel, Lomokino, N, N, Aucune, N, En bande, Normal, 000960, 000604
+135, C41 Manuel, Lomokino, N, N, Aucune, N, En bande, Express x2, 000960*2, 000604
+135, C41 Manuel, Lomokino, N, N, Aucune, N, En bande, Express x3, 000960*3, 000604
 135, NB, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 001005
 135, NB, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 001005*2
 135, NB, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 001005*3
@@ -4859,6 +4904,18 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 135, NB, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 001005, 001359
 135, NB, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 001005*2, 001359
 135, NB, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 001005*3, 001359
+135, NB, Sprocket, N, O, Aucune, N, Découpe par 4, Normal, 001005, 000171
+135, NB, Sprocket, N, O, Aucune, N, Découpe par 4, Express x2, 001005*2, 000171
+135, NB, Sprocket, N, O, Aucune, N, Découpe par 4, Express x3, 001005*3, 000171
+135, NB, Sprocket, N, O, Aucune, N, En bande, Normal, 001005, 000171
+135, NB, Sprocket, N, O, Aucune, N, En bande, Express x2, 001005*2, 000171
+135, NB, Sprocket, N, O, Aucune, N, En bande, Express x3, 001005*3, 000171
+135, NB, Spinner, N, O, Aucune, N, En bande, Normal, 001005, 000170
+135, NB, Spinner, N, O, Aucune, N, En bande, Express x2, 001005*2, 000170
+135, NB, Spinner, N, O, Aucune, N, En bande, Express x3, 001005*3, 000170
+135, NB, Lomokino, N, N, Aucune, N, En bande, Normal, 001005, 000604
+135, NB, Lomokino, N, N, Aucune, N, En bande, Express x2, 001005*2, 000604
+135, NB, Lomokino, N, N, Aucune, N, En bande, Express x3, 001005*3, 000604
 135, NB Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 000959
 135, NB Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 000959*2
 135, NB Manuel, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 000959*3
@@ -5345,6 +5402,18 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 135, NB Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 000959, 001359
 135, NB Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 000959*2, 001359
 135, NB Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 000959*3, 001359
+135, NB Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Normal, 000959, 000171
+135, NB Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Express x2, 000959*2, 000171
+135, NB Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Express x3, 000959*3, 000171
+135, NB Manuel, Sprocket, N, O, Aucune, N, En bande, Normal, 000959, 000171
+135, NB Manuel, Sprocket, N, O, Aucune, N, En bande, Express x2, 000959*2, 000171
+135, NB Manuel, Sprocket, N, O, Aucune, N, En bande, Express x3, 000959*3, 000171
+135, NB Manuel, Spinner, N, O, Aucune, N, En bande, Normal, 000959, 000170
+135, NB Manuel, Spinner, N, O, Aucune, N, En bande, Express x2, 000959*2, 000170
+135, NB Manuel, Spinner, N, O, Aucune, N, En bande, Express x3, 000959*3, 000170
+135, NB Manuel, Lomokino, N, N, Aucune, N, En bande, Normal, 000959, 000604
+135, NB Manuel, Lomokino, N, N, Aucune, N, En bande, Express x2, 000959*2, 000604
+135, NB Manuel, Lomokino, N, N, Aucune, N, En bande, Express x3, 000959*3, 000604
 135, E6, Aucun, N, N, Aucune, N, Mise sous cache, Normal, 001078, 001867
 135, E6, Aucun, N, N, Aucune, N, Mise sous cache, Express x2, 001078*2, 001867
 135, E6, Aucun, N, N, Aucune, N, Mise sous cache, Express x3, 001078*3, 001867
@@ -5957,6 +6026,18 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 135, E6, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 001078, 001359
 135, E6, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 001078*2, 001359
 135, E6, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 001078*3, 001359
+135, E6, Sprocket, N, O, Aucune, N, Découpe par 4, Normal, 001078, 000171
+135, E6, Sprocket, N, O, Aucune, N, Découpe par 4, Express x2, 001078*2, 000171
+135, E6, Sprocket, N, O, Aucune, N, Découpe par 4, Express x3, 001078*3, 000171
+135, E6, Sprocket, N, O, Aucune, N, En bande, Normal, 001078, 000171
+135, E6, Sprocket, N, O, Aucune, N, En bande, Express x2, 001078*2, 000171
+135, E6, Sprocket, N, O, Aucune, N, En bande, Express x3, 001078*3, 000171
+135, E6, Spinner, N, O, Aucune, N, En bande, Normal, 001078, 000170
+135, E6, Spinner, N, O, Aucune, N, En bande, Express x2, 001078*2, 000170
+135, E6, Spinner, N, O, Aucune, N, En bande, Express x3, 001078*3, 000170
+135, E6, Lomokino, N, N, Aucune, N, En bande, Normal, 001078, 000604
+135, E6, Lomokino, N, N, Aucune, N, En bande, Express x2, 001078*2, 000604
+135, E6, Lomokino, N, N, Aucune, N, En bande, Express x3, 001078*3, 000604
 135, E6 Manuel, Aucun, N, N, Aucune, N, Mise sous cache, Normal, 002281, 001867
 135, E6 Manuel, Aucun, N, N, Aucune, N, Mise sous cache, Express x2, 002281*2, 001867
 135, E6 Manuel, Aucun, N, N, Aucune, N, Mise sous cache, Express x3, 002281*3, 001867
@@ -6569,6 +6650,18 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 135, E6 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 002281, 001359
 135, E6 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 002281*2, 001359
 135, E6 Manuel, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 002281*3, 001359
+135, E6 Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Normal, 002281, 000171
+135, E6 Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Express x2, 002281*2, 000171
+135, E6 Manuel, Sprocket, N, O, Aucune, N, Découpe par 4, Express x3, 002281*3, 000171
+135, E6 Manuel, Sprocket, N, O, Aucune, N, En bande, Normal, 002281, 000171
+135, E6 Manuel, Sprocket, N, O, Aucune, N, En bande, Express x2, 002281*2, 000171
+135, E6 Manuel, Sprocket, N, O, Aucune, N, En bande, Express x3, 002281*3, 000171
+135, E6 Manuel, Spinner, N, O, Aucune, N, En bande, Normal, 002281, 000170
+135, E6 Manuel, Spinner, N, O, Aucune, N, En bande, Express x2, 002281*2, 000170
+135, E6 Manuel, Spinner, N, O, Aucune, N, En bande, Express x3, 002281*3, 000170
+135, E6 Manuel, Lomokino, N, N, Aucune, N, En bande, Normal, 002281, 000604
+135, E6 Manuel, Lomokino, N, N, Aucune, N, En bande, Express x2, 002281*2, 000604
+135, E6 Manuel, Lomokino, N, N, Aucune, N, En bande, Express x3, 002281*3, 000604
 135, NB SCA, Aucun, N, N, Aucune, N, Mise sous cache, Normal, 001794, 001867
 135, NB SCA, Aucun, N, N, Aucune, N, Mise sous cache, Express x2, 001794*2, 001867
 135, NB SCA, Aucun, N, N, Aucune, N, Mise sous cache, Express x3, 001794*3, 001867
@@ -7181,6 +7274,18 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 135, NB SCA, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 001794, 001359
 135, NB SCA, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 001794*2, 001359
 135, NB SCA, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 001794*3, 001359
+135, NB SCA, Sprocket, N, O, Aucune, N, Découpe par 4, Normal, 001794, 000171
+135, NB SCA, Sprocket, N, O, Aucune, N, Découpe par 4, Express x2, 001794*2, 000171
+135, NB SCA, Sprocket, N, O, Aucune, N, Découpe par 4, Express x3, 001794*3, 000171
+135, NB SCA, Sprocket, N, O, Aucune, N, En bande, Normal, 001794, 000171
+135, NB SCA, Sprocket, N, O, Aucune, N, En bande, Express x2, 001794*2, 000171
+135, NB SCA, Sprocket, N, O, Aucune, N, En bande, Express x3, 001794*3, 000171
+135, NB SCA, Spinner, N, O, Aucune, N, En bande, Normal, 001794, 000170
+135, NB SCA, Spinner, N, O, Aucune, N, En bande, Express x2, 001794*2, 000170
+135, NB SCA, Spinner, N, O, Aucune, N, En bande, Express x3, 001794*3, 000170
+135, NB SCA, Lomokino, N, N, Aucune, N, En bande, Normal, 001794, 000604
+135, NB SCA, Lomokino, N, N, Aucune, N, En bande, Express x2, 001794*2, 000604
+135, NB SCA, Lomokino, N, N, Aucune, N, En bande, Express x3, 001794*3, 000604
 135, ECN2, Aucun, N, N, Aucune, N, Découpe par 4, Normal, 002729
 135, ECN2, Aucun, N, N, Aucune, N, Découpe par 4, Express x2, 002729*2
 135, ECN2, Aucun, N, N, Aucune, N, Découpe par 4, Express x3, 002729*3
@@ -7667,60 +7772,72 @@ Code, Format, Type, Support, Marge, Rendu, Numérisation, Scan, Finition, Traite
 135, ECN2, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Normal, 002729, 001359
 135, ECN2, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x2, 002729*2, 001359
 135, ECN2, Planche contact, N, N, HR500 UHD, O, Détruire le négatif, Express x3, 002729*3, 001359
+135, ECN2, Sprocket, N, O, Aucune, N, Découpe par 4, Normal, 002729, 000171
+135, ECN2, Sprocket, N, O, Aucune, N, Découpe par 4, Express x2, 002729*2, 000171
+135, ECN2, Sprocket, N, O, Aucune, N, Découpe par 4, Express x3, 002729*3, 000171
+135, ECN2, Sprocket, N, O, Aucune, N, En bande, Normal, 002729, 000171
+135, ECN2, Sprocket, N, O, Aucune, N, En bande, Express x2, 002729*2, 000171
+135, ECN2, Sprocket, N, O, Aucune, N, En bande, Express x3, 002729*3, 000171
+135, ECN2, Spinner, N, O, Aucune, N, En bande, Normal, 002729, 000170
+135, ECN2, Spinner, N, O, Aucune, N, En bande, Express x2, 002729*2, 000170
+135, ECN2, Spinner, N, O, Aucune, N, En bande, Express x3, 002729*3, 000170
+135, ECN2, Lomokino, N, N, Aucune, N, En bande, Normal, 002729, 000604
+135, ECN2, Lomokino, N, N, Aucune, N, En bande, Express x2, 002729*2, 000604
+135, ECN2, Lomokino, N, N, Aucune, N, En bande, Express x3, 002729*3, 000604
 110, C41, Aucun, N, N, Aucune, N, Aucune, Normal, 001000
 110, C41, Aucun, N, N, Aucune, N, Aucune, Express x2, 001000*2
 110, C41, Aucun, N, N, Aucune, N, Aucune, Express x3, 001000*3
-110, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-110, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-110, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+110, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 001000, 000171
+110, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001000*2, 000171
+110, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001000*3, 000171
 110, NB, Aucun, N, N, Aucune, N, Aucune, Normal, 001005
 110, NB, Aucun, N, N, Aucune, N, Aucune, Express x2, 001005*2
 110, NB, Aucun, N, N, Aucune, N, Aucune, Express x3, 001005*3
-110, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-110, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-110, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+110, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 001005, 000171
+110, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001005*2, 000171
+110, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001005*3, 000171
 110, E6, Aucun, N, N, Aucune, N, Aucune, Normal, 001078
 110, E6, Aucun, N, N, Aucune, N, Aucune, Express x2, 001078*2
 110, E6, Aucun, N, N, Aucune, N, Aucune, Express x3, 001078*3
-110, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-110, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-110, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+110, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 001078, 000171
+110, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001078*2, 000171
+110, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001078*3, 000171
 126, C41, Aucun, N, N, Aucune, N, Aucune, Normal, 001000
 126, C41, Aucun, N, N, Aucune, N, Aucune, Express x2, 001000*2
 126, C41, Aucun, N, N, Aucune, N, Aucune, Express x3, 001000*3
-126, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-126, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-126, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+126, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 001000, 000171
+126, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001000*2, 000171
+126, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001000*3, 000171
 126, NB, Aucun, N, N, Aucune, N, Aucune, Normal, 001005
 126, NB, Aucun, N, N, Aucune, N, Aucune, Express x2, 001005*2
 126, NB, Aucun, N, N, Aucune, N, Aucune, Express x3, 001005*3
-126, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-126, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-126, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+126, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 001005, 000171
+126, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001005*2, 000171
+126, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001005*3, 000171
 126, E6, Aucun, N, N, Aucune, N, Aucune, Normal, 001078
 126, E6, Aucun, N, N, Aucune, N, Aucune, Express x2, 001078*2
 126, E6, Aucun, N, N, Aucune, N, Aucune, Express x3, 001078*3
-126, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-126, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-126, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+126, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 001078, 000171
+126, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001078*2, 000171
+126, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001078*3, 000171
 127, C41, Aucun, N, N, Aucune, N, Aucune, Normal, 001000
 127, C41, Aucun, N, N, Aucune, N, Aucune, Express x2, 001000*2
 127, C41, Aucun, N, N, Aucune, N, Aucune, Express x3, 001000*3
-127, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-127, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-127, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+127, C41, Sprocket, N, O, Aucune, N, Aucune, Normal, 001000, 000171
+127, C41, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001000*2, 000171
+127, C41, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001000*3, 000171
 127, NB, Aucun, N, N, Aucune, N, Aucune, Normal, 001005
 127, NB, Aucun, N, N, Aucune, N, Aucune, Express x2, 001005*2
 127, NB, Aucun, N, N, Aucune, N, Aucune, Express x3, 001005*3
-127, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-127, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-127, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+127, NB, Sprocket, N, O, Aucune, N, Aucune, Normal, 001005, 000171
+127, NB, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001005*2, 000171
+127, NB, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001005*3, 000171
 127, E6, Aucun, N, N, Aucune, N, Aucune, Normal, 001078
 127, E6, Aucun, N, N, Aucune, N, Aucune, Express x2, 001078*2
 127, E6, Aucun, N, N, Aucune, N, Aucune, Express x3, 001078*3
-127, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 000171
-127, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 000171*2
-127, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 000171*3
+127, E6, Sprocket, N, O, Aucune, N, Aucune, Normal, 001078, 000171
+127, E6, Sprocket, N, O, Aucune, N, Aucune, Express x2, 001078*2, 000171
+127, E6, Sprocket, N, O, Aucune, N, Aucune, Express x3, 001078*3, 000171
 4x5'', C41 Manuel, Aucun, N, N, Aucune, N, Aucune, Normal, 001333
 4x5'', C41 Manuel, Aucun, N, N, Aucune, N, Aucune, Express x2, 001333*2
 4x5'', C41 Manuel, Aucun, N, N, Aucune, N, Aucune, Express x3, 001333*3
